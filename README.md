@@ -8,6 +8,6 @@ This project explores transformer-based models for scenario classification using
 
 The loss and accuracy for each model are saved in the "results" folder. The plots for train and validation accuracy are in the "plots" folder."
 
-To run the notebook:
+To run:
 main.py --task baseline/custom/supcon/supcon --use_sim --batch-size 32 --n-epochs 10 --do-train
 
