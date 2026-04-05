@@ -1,4 +1,4 @@
-# PA4 - Transformers for Amazon Scenario classification
+# Transformers for Amazon Scenario classification
 
 This project explores transformer-based models for scenario classification using the Amazon Massive Scenario Dataset. The implementation includes:
 
